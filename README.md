@@ -1,48 +1,33 @@
 <h1 align="center">Peterson Santos</h1>
 
 <p align="center">
-  Desenvolvedor de software em busca do primeiro estágio. Construindo projetos práticos com Spring Boot e Next.js — graduando em ADS pelo Senac.
+  Desenvolvedor full stack com foco em backend (Java · Spring Boot · PostgreSQL), em busca do primeiro estágio.<br/>
+  Graduando em ADS pelo Senac São Paulo · São Paulo, Brasil
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/petersonsantos9k">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/petersonsantos9k">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/petersonsantos9k">LinkedIn</a> ·
+  <a href="mailto:SEU_EMAIL_AQUI">E-mail</a>
 </p>
 
 ---
 
-## Stack principal
+## Projetos
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=springboot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=336791" />
-  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white" />
-</p>
+**[DocFlow](https://github.com/petersonsantos9k/docflow)** – Plataforma de documentação de APIs com IA. Backend em Java/Spring Boot com PostgreSQL e testes automatizados, frontend em React. *Em desenvolvimento.*
+
+**[Desafio Backend PicPay](https://github.com/petersonsantos9k/desafio-picpay)** – API de uma plataforma de pagamentos simplificada, com transferências entre usuários e lojistas, em Java/Spring Boot.
 
 ---
 
-## Estatísticas do GitHub
-<p align="center">
-  <img
-    height="150"
-    src="https://github-readme-stats-sage-seven-49.vercel.app/api?username=petersonsantos9k&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-  />
-  <img
-    height="150"
-    src="https://github-readme-stats-sage-seven-49.vercel.app/api/top-langs/?username=petersonsantos9k&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
+## Stack
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=petersonsantos9k&theme=github-dark&hide_border=true&locale=pt_BR"
-  />
-</p>
+**Backend (foco):** Java, Spring Boot, PostgreSQL, APIs REST
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS
+**Outros:** Python, Git e GitHub
+
+---
+
+## Estudando agora
+
+Aprofundando Spring Boot e testes automatizados, e melhorando meu inglês técnico.
