@@ -25,9 +25,3 @@
 **Backend (foco):** Java, Spring Boot, PostgreSQL, APIs REST
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 **Outros:** Python, Git e GitHub
-
----
-
-## Estudando agora
-
-Aprofundando Spring Boot e testes automatizados, e melhorando meu inglês técnico.
